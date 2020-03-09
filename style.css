@@ -51,6 +51,10 @@
     position: absolute;
     top: 10%;
     right: 20%;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
 }
 
 #vertical-navigation a {
@@ -147,6 +151,7 @@ input[type=text], input[type=password] {
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
     padding-top: 60px;
+    color: black;
   }
   
   /* Modal Content/Box */
